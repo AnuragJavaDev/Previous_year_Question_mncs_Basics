@@ -38,6 +38,7 @@ Output:
 Output:
 7
 **Solution:** [Solution01.java](./Solution01.java)
+
 Q2.
 (Expected O(1))
 

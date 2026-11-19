@@ -28,7 +28,7 @@ b[] = [85, 2]
 
 Output:
 7
-
+**Solution:** [Solution01.java](./Solution01.java)
 ---
 Case 3
 

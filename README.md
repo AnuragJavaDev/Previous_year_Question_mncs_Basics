@@ -81,4 +81,4 @@ n = 1000000000
 
 Output:
 50000000005000000000
-**Question 02:** [Question02.md](./Solution01.java)
+**Solution:** [Solution02.java](./Solution02.java)

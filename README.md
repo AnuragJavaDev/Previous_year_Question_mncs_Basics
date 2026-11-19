@@ -26,9 +26,6 @@ Input:
 a[] = [85, 25, 1, 32, 54, 6]
 b[] = [85, 2]
 
-Output:
-7
-**Solution:** [Solution01.java](./Solution01.java)
 ---
 Case 3
 
@@ -38,3 +35,48 @@ b[] = [2, 2, 1, 2, 1]
 
 Output:
 2**
+Output:
+7
+**Solution:** [Solution01.java](./Solution01.java)
+Q2.
+(Expected O(1))
+
+In the Kingdom of Arithmoria, a ritual staircase has n glowing steps. The first step emits energy 1, the second 2, the third 3, and so on.
+
+To activate the royal beacon, the total cumulative energy of all n steps must be calculated.
+
+However, due to time constraints, the calculation must be performed in constant time.
+
+Compute the total energy emitted by the staircase.
+
+---
+
+Sample Test Cases
+
+Case 1
+
+Input:
+n = 1
+
+Output:
+1
+
+---
+
+Case 2
+
+Input:
+n = 5
+
+Output:
+15
+
+---
+
+Case 3 (Large Constraint)
+
+Input:
+n = 1000000000
+
+Output:
+50000000005000000000
